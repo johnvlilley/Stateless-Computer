@@ -9,4 +9,4 @@ My system performs the permutations only using one command without numeric varia
 
 I have done all kinds of things with this, if-then, do-while, a randomizer, a relational database and a calculator that adds/subtracts/multiplies/divides
 
-Please read statelesscomputer.docx
+Please read statelesscomputer.pdf

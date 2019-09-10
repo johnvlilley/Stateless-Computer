@@ -22,3 +22,5 @@ https://www.merriam-webster.com/dictionary/dynamic
 https://en.wikipedia.org/wiki/State_(computer_science)
 
 Note: after 18 years of having the Slapaho script, I made the calculators and someone close to me finally made the accusation: "You're not doing math! You're emulating math!", which is my whole point.
+
+Look at the simple_calculator.cfg first to get an idea of what this is doing

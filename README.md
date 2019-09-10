@@ -14,3 +14,5 @@ I have come up with what I believe is a new type of logic, it is mechanical in n
 This logic is pure connectionism, only using connections and nothing else. I look at it as a geometry of logic. My system performs the logic only using one command without numeric variables, without logic operators, and without measurements. This is neither digital nor analog logic. 
 
 This is not theory, I have built a working model using this logic that demonstrates if-then, do-while, a randomizer, a relational database and other logic, including a rudimentary calculator that adds/subtracts/multiplies/divides. In the working model I only use one command for hooking in the input, a few commands for output, but all the logic in between is one command that does nothing but link commands together.
+
+Note: after 18 years of having the Slapaho script, I made the calculators and someone close to me finally made the accusation: "You're not doing math! You're emulating math!" which is my whole point.

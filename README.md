@@ -5,7 +5,7 @@ The answer used Pascal's Triangle in a way nobody else has though of in however 
 
 http://mathhelpforum.com/discrete-math/17147-combination-lock.html
 
-My system performs the permutations only using one command without numeric variables and without logic operators. This is niether digital nor analog logic. This is pure connectionism. Perhaps there is a way to combine this with conventional connectionism. Currently it is only 4 wheels and 4 numbers that you can hit any of the 209 unique possible combinations in 4 keystrokes or less. If I had 18 wheels and 18 numbers (base 18) there would be 2,968,971,264,021,448,999 possible combinations, each reachable within 18 or less key strokes.
+My system performs the permutations only using one command without numeric variables and without logic operators. This is niether digital nor analog logic. This is pure connectionism. Currently it is only 4 wheels and 4 numbers that you can hit any of the 209 unique possible combinations in 4 keystrokes or less. If I had 18 wheels and 18 numbers (base 18) there would be 2,968,971,264,021,448,999 possible combinations, each reachable within 18 or less key strokes.
 
 Please read statelesscomputer.pdf :
 

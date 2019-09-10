@@ -17,4 +17,8 @@ This is not theory, I have built a working model using this logic that demonstra
 
 The working model here I call a Dynamic Stateless Computer, in that the commands change function during the interpreting of the code and the history of the model is not reversible or memorized.
 
+https://www.merriam-webster.com/dictionary/dynamic
+
+https://en.wikipedia.org/wiki/State_(computer_science)
+
 Note: after 18 years of having the Slapaho script, I made the calculators and someone close to me finally made the accusation: "You're not doing math! You're emulating math!" which is my whole point.

@@ -23,4 +23,4 @@ https://en.wikipedia.org/wiki/State_(computer_science)
 
 Note: after 18 years of having the Slapaho script, I made the calculators and someone close to me finally made the accusation: "You're not doing math! You're emulating math!", which is my whole point.
 
-Look at the calculator_simple.cfg first to get an idea of what this is doing. Both calculators will work in any QuakeWorld engine derivative, including the original Quake. In Counter-Strike GO and other games you have to go into settings and enable the console to be able to pull the console down with the ~ (tilde) key.
+Look at the calculator_simple.cfg first to get an idea of what this is doing. Both calculators will work in any QuakeWorld engine derivative, including the original Quake. In Counter-Strike GO you have to go into settings and enable the console to be able to pull the console down with the ~ (tilde) key. To run the scripts, first place them in the csgo\cfg\ directory and then pull down the console and type "exec calculator_simple.cfg" 

@@ -9,7 +9,7 @@ My system performs the permutations only using one command without numeric varia
 
 Please read statelesscomputer.pdf :
 
-I have come up with what I believe is a new type of logic, it is mechanical in nature, but because I could maybe see it done on the quantum level it could be far more complex than any mechanical machine has ever been, in ways not seen in physical mechanical devices. I believe this to be a Turing complete, but more simple computer.
+I have come up with what I believe is a new type of logic, it is mechanical in nature, but because I could maybe see it done on the quantum level it could be far more complex than any mechanical machine has ever been, in ways not seen in physical mechanical devices.
 
 This logic is pure connectionism, only using connections and nothing else. I look at it as a geometry of logic. My system performs the logic only using one command without numeric variables, without logic operators, and without measurements. This is neither digital nor analog logic. 
 

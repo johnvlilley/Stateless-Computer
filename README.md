@@ -1,6 +1,4 @@
 # Dynamic Stateless Computer
-I have created what I believe to be a new form of logic, a geometrically shaped logic where the form is the logic, through shape rather than actions.
-
 I did something kind of interesting afterward figuring out the word problem and then someone answering it. The application took nothing into account as something you have to count; like with the ancient Chinese Pascal's Triangle question: the old how many combinations of hats you can have on pegs, but where they didn't count empty pegs as something to count as part of the combination, I had to. Nothing has value. You learn that when most of your learning has been in 0 and 1.
 
 The answer used Pascal's Triangle in a way nobody else has though of in however thousands of years its been around. Here are answers on Math Help Forum:

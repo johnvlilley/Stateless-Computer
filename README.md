@@ -9,7 +9,7 @@ http://mathhelpforum.com/discrete-math/17147-combination-lock.html
 
 My system performs the permutations only using one command without numeric variables and without logic operators. This is niether digital nor analog logic. This is pure connectionism. Currently it is only 4 wheels and 4 numbers that you can hit any of the 209 unique possible combinations in 4 keystrokes or less. If I had 18 wheels and 18 numbers (base 18) there would be 2,968,971,264,021,448,999 possible combinations, each reachable within 18 or less key strokes.
 
-Please read statelesscomputer.pdf :
+Please read dynamicstatelesscomputer.pdf :
 
 I have come up with what I believe is a new type of logic, it is mechanical in nature, but because I could maybe see it done on the quantum level it could be far more complex than any mechanical machine has ever been, in ways not seen in physical mechanical devices.
 
